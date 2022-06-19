@@ -11,7 +11,7 @@ If you want to launch this app at pressing the hardware camera button, you might
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-<a href='https://f-droid.org/packages/com.simplemobiletools.camera'><img src='https://simplemobiletools.com/images/button-f-droid.png' alt='Get it on F-Droid' height='45' /></a>
+<a href='[https://f-droid.org/packages/com.simplemobiletools.camera](https://github.com/PeshalaDilshan/HDCamera_App.git)'><img src='https://simplemobiletools.com/images/button-f-droid.png' alt='Get it on F-Droid' height='45' /></a>
 
 
 <div style="display:flex;">
